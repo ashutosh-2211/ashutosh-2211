@@ -92,7 +92,7 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/langgraph.svg" alt="langgraph" width="40" height="40"/> 
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" alt="openai" width="40" height="40"/> 
+    <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/openai.svg" alt="openai" width="40" height="40"/> 
   </a>
 
   <!-- Infra -->

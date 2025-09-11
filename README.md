@@ -1,3 +1,4 @@
+<div align="center" style="background-color:#5E5C5C; border-radius:15px; padding:20px;">
 <h1 align="center">
   Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ashutosh
 </h1>
